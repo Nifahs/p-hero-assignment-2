@@ -1,0 +1,172 @@
+header{
+
+    /* height: 576px; */
+    background-color: #F0FFF0;
+    padding-bottom: 40px;
+    
+}
+
+.container-sm{
+    /* border: 1px solid black; */
+    margin-bottom: 62px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-item{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.green-btn{
+    /* btn-outline-success btn  */
+    background-color: #21B573;
+    color: white;
+    padding: 12px 28px 12px 28px;
+    border-radius: 33px;
+    border: none;
+    margin-left: 10px;
+}
+.green-btn:hover{
+    background-color: #188654;
+    transition-duration: 0.4s;
+}
+.green-btn-2{
+    background-color: #21B573;
+    color: white;
+    padding: 12px 36px 12px 36px;
+    border-radius: 33px;
+    border: none;
+}
+.green-btn-2:hover{
+    background-color: #188654;
+    transition-duration: 0.4s;
+}
+
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+}
+.red-text{
+    color: red;
+}
+.green-text{
+    color: #21B573;
+}
+.Largest-text{
+    font-size: 3em;
+    /* width: 405px; */
+    font-weight: bold;
+}
+.small-text{
+    font-size: 1em;
+    color: #6C6B6B;
+    
+}
+
+#header-img{
+    width: 100%;
+}
+.area-2{
+    margin-top: 50px;
+}
+
+.area-2 img{
+    width: 66px;
+    /* height: 85px; */
+    padding-bottom: 22px;
+    padding-top: 10px;
+}
+
+.area-2 .card{
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+}
+.area-2 .card:hover{
+    box-shadow: 0 0 15px gray;
+    transition-duration: .7s;
+    cursor: pointer;
+    background-color: white;
+}
+.area-3{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 36px;
+    color: #413960;
+}
+
+.area-4 .card-title{
+    font-weight: 500;
+font-size: 24px;
+color: #413960;
+}
+.area-4 .card-text{
+    font-size: 16px;
+    color: #585859;
+}
+
+.area-4 .card{
+    border-radius: 18px;
+    /* box-shadow: 0 0 15px lightgray; */
+    border: none;
+}
+.area-4 .card-img-top{
+    /* width: 331px; */
+    border-radius: 11px;
+    padding: 20px;
+}
+.area-4 .card-fter img{
+    height: 24px;
+    width: 24px;
+}
+.card-fter{
+    display: inline;
+    margin: 12px;
+    padding-bottom: 31px;
+}
+.buy-btn{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 8px 28px;
+}
+.buy-btn:hover{
+    background-color: #167449;
+    transition-duration: 0.4s;
+}
+.area-5{
+    color: black;
+
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.area-6 img{
+    width: 120px;
+    font-size: 16px;
+}
+
+.area-7{
+    background-color: #282531;
+    color: white;
+    
+}
+.area-7 .mainrow{
+    padding: 55px 0 80px 0;
+}
+.area-7 ul,li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.area-7 a{
+    text-decoration: none;
+    color: white;
+}
+
